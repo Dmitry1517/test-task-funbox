@@ -1,0 +1,32 @@
+const cards = [
+	{
+		id: 1,
+		ingridient: 'с фуа-гра',
+		portion: 10,
+		present: 'мышь',
+		weight: 0.5,
+		info: 'Печень утки разварная с артишоками',
+		availability: true,
+		selected: false,
+	},
+	{
+		id: 2,
+		ingridient: 'с рыбой',
+		portion: 40,
+		present: '2 мыши',
+		weight: 2,
+		info: 'Головы щучьи с честноком да свежайшая семгушка',
+		availability: true,
+		selected: false,
+	},
+	{
+		id: 3,
+		ingridient: 'с курой',
+		portion: 100,
+		present: '5 мышей',
+		weight: 5,
+		info: 'Филе из циплят с трюфелями в бульоне',
+		availability: false,
+		selected: false,
+	},
+];
